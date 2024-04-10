@@ -178,4 +178,5 @@ Vídeos da sessão vídeos:
                 <h3>Por que o JavaScript é assim? | Memes JavaScript #01</h3>
                 <p>2,3 mil visualizações - Há 2 dias</p>
             </div>
-        </li>
+        </li>#   a l u r a p l a y - p r o j e t o  
+ 
